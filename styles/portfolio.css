@@ -22,14 +22,14 @@ body {
 
 }
 
-.about-title {
+.section-title {
     color: #181818;
     font-weight: 700;
     font-size: 35px;
     text-align: center;
 }
 
-.about-description {
+.section-description {
     font-weight: 400;
     font-size: 18px;
     text-align: center;
@@ -152,4 +152,8 @@ main {
     font-weight: bolder;
     font-size: 20px;
     margin-top: 0;
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
 }
