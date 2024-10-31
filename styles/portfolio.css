@@ -30,6 +30,7 @@ body {
     font-weight: 700;
     font-size: 35px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .section-description {
@@ -79,10 +80,9 @@ nav li a {
 /* header related styles */
 .header {
     background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png');
-    background-size: 670px 400px;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right , top left;
 }
 
 .banner {
