@@ -230,3 +230,22 @@ footer{
     padding: 100px 200px;
     gap: 100px;
 }
+
+.footer-colum{
+    width: 50%;
+}
+
+.social-links a {
+    margin-right: 50px;
+}
+
+.contact input[type='text'] , .contact input[type='email'] , textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border: 0;
+    border-radius: 5px;
+    background-color: #FFF;
+    width: 70%;
+}
